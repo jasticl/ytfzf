@@ -1,6 +1,6 @@
 PREFIX=/usr/local
 BINDIR=${PREFIX}/bin
-DOCDIR=${PREFIX}/share/doc/ytfzf
+sdsdDOCDIR=${PREFIX}/share/doc/ytfzf
 MANDIR=${PREFIX}/share/man
 LICENSEDIR=${PREFIX}/share/licenses/ytfzf
 
